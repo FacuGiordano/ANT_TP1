@@ -1,2 +1,2 @@
-[link](/cv.md#section)
+[CV](/cv.md#section)
  
